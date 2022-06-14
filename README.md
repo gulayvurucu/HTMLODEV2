@@ -32,15 +32,12 @@
             <li>Friend</li>
             <li>Mindhunter
                <br> <a href="https://www.imdb.com/title/tt5290382/" target="_blank"><img src="mh.jpg"> </a></br>
-               <p><footer>FB’ın özel bir biriminde görevli ajan Holden Ford ve ortağı Bill Tench kötü şöhretli seri katilleri ve tecavüzcüleri araştırmaya başlar.   Acımasız olayları soruşturdukça yeni profil çıkarma teknikleri geliştirirler. 
-         
-            </p>
-            <br> <a href="#header">Başa Dön </a></br>
-              </li>   
+               <p><footer>FB’ın özel bir biriminde görevli ajan Holden Ford ve ortağı Bill Tench kötü şöhretli seri katilleri ve tecavüzcüleri araştırmaya başlar.   Acımasız olayları soruşturdukça yeni profil çıkarma teknikleri geliştirirler. </footer></p>
+                <br> <a href="#header">Başa Dön </a></br>
+            </li>   
             </ul>
-        </li>     
+        </li>   
     </ol>         
-
 
 
 
