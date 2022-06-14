@@ -15,16 +15,17 @@
               <li>Aylaklığa Övgü</li>
               <li>Beyaz Zambaklar Ülkesinde</li>
 
-         </ul>
-     </li>
+</ul>
+</li>
+ 
 
-    <li>FİLM
+<li>FİLM
           <ul>
               <li>In The Mood For Love</li>
               <li><a href="https://www.imdb.com/title/tt10288566/" target="_blank">Another Round</a></li>
               <li>The Worst Person In The World</li>
 
-          </ul>
+</ul>
      </li>
     <li>DİZİ
            <ul>
