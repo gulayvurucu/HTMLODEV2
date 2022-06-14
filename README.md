@@ -5,7 +5,6 @@
 <!-- Kişisel Bilgi ve İlgi Alanları Yazılabilir -->
 <p>Yönetim Bilişim Sistemleri mezunuyum ve kendimi yazılım alanında geliştirmekteyim.</p>
 <p>Bunun haricinde <span style="color:blueviolet "><em><strong>doğa bilimleri ve doğa sporları </strong></em></span>en büyük ilgi alanım.</p> 
-</a>
 <hr></hr>
 <h3>DİĞER İLGİ ALANLARIM</h3>
  <ol>
@@ -33,24 +32,24 @@
             <li>Friend</li>
             <li>Mindhunter
                <br> <a href="https://www.imdb.com/title/tt5290382/" target="_blank"><img src="mh.jpg"> </a></br>
-               <p><footer>FB’ın özel bir biriminde görevli ajan Holden Ford ve ortağı Bill Tench kötü şöhretli seri katilleri ve tecavüzcüleri araştırmaya başlar. Acımasız olayları soruşturdukça yeni profil çıkarma teknikleri geliştirirler. 
-            </footer>
+               <p><footer>FB’ın özel bir biriminde görevli ajan Holden Ford ve ortağı Bill Tench kötü şöhretli seri katilleri ve tecavüzcüleri araştırmaya başlar.   Acımasız olayları soruşturdukça yeni profil çıkarma teknikleri geliştirirler. 
+         
             </p>
             <br> <a href="#header">Başa Dön </a></br>
-                
-
-            
-            
-
-
+              </li>   
+            </ul>
+        </li>     
+    </ol>         
 
 
 
 
 
 
-            </li>
-           </ul>
-    </li>
 
- </ol>
+
+           
+          
+  
+
+
